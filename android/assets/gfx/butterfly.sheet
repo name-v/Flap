@@ -1,0 +1,53 @@
+butterfly.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flap_
+  rotate: false
+  xy: 2, 2
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: 1
+flap_
+  rotate: false
+  xy: 224, 224
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: 4
+flap_
+  rotate: false
+  xy: 2, 446
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: 5
+flap_
+  rotate: false
+  xy: 224, 2
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: 2
+flap_
+  rotate: false
+  xy: 2, 224
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: 3
+flap_
+  rotate: false
+  xy: 224, 446
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: 6
+flap_
+  rotate: false
+  xy: 2, 668
+  size: 220, 220
+  orig: 220, 220
+  offset: 0, 0
+  index: 7

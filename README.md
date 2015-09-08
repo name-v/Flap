@@ -1,2 +1,2 @@
 # Flap
-Live wall paper template for android based on libgdx
+Live wall paper libgdx template for android.
